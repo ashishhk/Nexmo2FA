@@ -10,9 +10,9 @@ import com.nexmo.client.verify.VerifyResponse;
 
 public class TwoFactorAuth {
 	
-	public final static String API_KEY = "97318d8e";
+	public final static String API_KEY = "#####";
 	
-	public final static String API_SECRET = "V9QXsm1xcoP8RJkB";
+	public final static String API_SECRET = "#######";
 	
 	public final static int STATUS_CODE_SUCCESS=0;
 	
